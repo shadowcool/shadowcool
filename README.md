@@ -24,7 +24,7 @@
       src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo.wine.svg"
       alt="shadowgamerfromyt" height="150" width="150" /></a>
       <a href="https://www.instagram.com/arindam_dhaka/" target="blank"><img align="center"
-      src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"
       alt="arindam_dhaka" height="150" width="150" /></a>
 </p>
 
