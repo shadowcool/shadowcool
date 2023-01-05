@@ -23,6 +23,9 @@
   <a href="https://discord.com/users/696941196718637097" target="blank"><img align="center"
       src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo.wine.svg"
       alt="shadowgamerfromyt" height="150" width="150" /></a>
+      <a href="https://www.instagram.com/arindam_dhaka/" target="blank"><img align="center"
+      src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png"
+      alt="arindam_dhaka" height="150" width="150" /></a>
 </p>
 
 <br>
