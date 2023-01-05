@@ -43,7 +43,7 @@
       alt="javascript" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"
+    <img src="https://i.ibb.co/0QvfFQ2/kisspng-the-c-programming-language-programmer-computer-p-programming-5b3600aaaefbc4-5203306415302657.png"
       alt="c-plus-plus" width="40" height="40" /> </a> </p>
 
 <br>
