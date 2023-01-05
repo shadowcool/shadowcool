@@ -32,8 +32,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://www.subpng.com/static/img/lazy-bg.png"
-      alt="bootstrap" width="1000" height="1000" /> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    <img src="https://mpng.subpng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"
+      alt="bootstrap" width="40" height="40" /> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
