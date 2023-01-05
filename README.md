@@ -32,7 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://ibb.co/0sFbj6T"
+    <img src="https://i.ibb.co/KKLvjfd/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600-16285711153.png"
       alt="c-sharp" width="40" height="40" /> </a> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
