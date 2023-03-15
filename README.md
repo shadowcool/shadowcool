@@ -1,67 +1,29 @@
-<h1 align="center">Hi 👋, I'm ShadoW Cool</h1>
-<h3 align="center">A Game Developer</h3>
+<h1 align="center">👋 Hi, I'm ShadoW 👋</h1>
+<h3 align="center">An Aspiring Software engineer and Game Developer from India</h3>
 
-<br>
+## 🛈 Information
+- Name: Arindam Dhaka
+- Region: Uttar Pradesh, India
+- Languages: English, Hindi
+- Age: 13
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=shadowgamerfromyt&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+## 💬 Ask me about
+- Backend web development (Node.js)
+- Frontend web development (HTML, CSS, JavaScript)
+- Game Development (C/C++, C#)
+- Photo/Video Editing (Photoshop, Premiere Rush)
 
-<br>
+## 📅 Hobbies
+- Solve programming problems at LeetCode
+- Watch anime and TV shows
+- Play and making videogames
+- Making my setup more RGB
+- etc...
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+## 📚 Learning
+- More about Game Engine Development and Game Development
+- C/C++, Python and C#
+- Unity, Unreal Engine and other Game Engines
 
-
-- 🌱 I’m currently making a Battle Royale Game Called Contamination
-
-- ⚡ Fun fact :- I actually play professionaly for a VALORANT Team
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.com/users/696941196718637097" target="blank"><img align="center"
-      src="https://www.logo.wine/a/logo/Discord_(software)/Discord_(software)-Logo.wine.svg"
-      alt="shadowgamerfromyt" height="150" width="150" /></a>
-      <a href="https://www.instagram.com/arindam_dhaka/" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"
-      alt="arindam_dhaka" height="150" width="150" /></a>
-</p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co/KKLvjfd/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600-16285711153.png"
-      alt="c-sharp" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /></a><a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co/0QvfFQ2/kisspng-the-c-programming-language-programmer-computer-p-programming-5b3600aaaefbc4-5203306415302657.png"
-      alt="c-plus-plus" width="40" height="40" /> </a> </p>    
-
-<br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowgamerfromyt&show_icons=true&locale=en&layout=compact"
-    alt="shadowgamerfromyt" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowgamerfromyt&show_icons=true&locale=en"
-    alt="shadowgamerfromyt" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowgamerfromyt&" alt="shadowgamerfromyt" /></p>
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-[ShadoW Cool](https://github.com/shadowgamerfromyt)
+## 🏆 Github Status
+[![trophy](https://github-profile-trophy.vercel.app/?username=shadowgamerfromyt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
