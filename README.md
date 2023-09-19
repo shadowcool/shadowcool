@@ -26,4 +26,4 @@
 - [Ultron Discord Bot](https://ultron-bot.xyz)
 
 ## 🏆 Github Status
-[![trophy](https://github-profile-trophy.vercel.app/?username=shadowgamerfromyt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shadowcool&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
